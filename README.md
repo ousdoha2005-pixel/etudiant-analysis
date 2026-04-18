@@ -16,16 +16,16 @@ It helps understand performance, averages, and other insights from a dataset.
 ## 📊 Visualizations
 
 ### 🎯 Distribution des notes (G3) selon le sexe
-![Graph1](graph1.png)
+![Graph1](Graph1.png)
 
 ### 🏫 Moyenne par école
-![Graph2](graph2.png)
+![Graph2](Graph2.png)
 
 ### 📈 Relation âge - note
-![Graph3](graph3.png)
+![Graph3](Graph3.png)
 
 ### 🧾 Répartition des mentions
-![Graph4](graph4.png)
+![Graph4](Graph4.png)
 
 
 ## ▶️ How to Run
