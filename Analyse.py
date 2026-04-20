@@ -6,7 +6,7 @@ import seaborn as sns
 # 1. Chargement du dataset
 # ==============================
 
-# ⚠️ عدّلي الاسم إلا كان مختلف
+
 df = pd.read_csv("student_data (1).csv")
 
 print("===== APERÇU DU DATASET =====")
